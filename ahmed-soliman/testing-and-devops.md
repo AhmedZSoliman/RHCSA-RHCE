@@ -1,0 +1,102 @@
+# Testing and DevOps
+
+**Software application (Sw App)** is a product that has business features, and before releasing it to end users, it must undergo various tests.
+
+Testing is a process within the SDLC (Software Development Life Cycle).
+
+The goal is to verify quality and performance.
+
+**Types of Testing:**
+
+**Manual Testing**: Users interact with the product manually to ensure it behaves as expected.
+
+**Automated Testing**: Software tools are used to test the product (e.g., unit tests, integration tests) instead of relying solely on human-driven manual testing.
+
+**Automated testing is a key component of CI/CD.**
+
+**Levels of Testing**:
+
+**Unit Testing**: Tests individual functions, methods, components, or modules.
+
+Each unit should be fully tested because it is cheap and easy to isolate.
+
+**Component Testing**: Tests specific parts of the application, such as a shopping cart module.
+
+**Integration Testing**: Tests the interaction between integrated units or modules to ensure they work together as expected.
+
+Also covers interactions with anything external to the application.
+
+**End-to-End Testing (E2E)**: Simulates real user behavior to test the application from start to finish.
+
+**Acceptance Testing**: Validates the software against user requirements and determines if it is ready for release.
+
+Often involves beta testing with real users.
+
+**Performance Testing**: Evaluates the software’s behavior under different conditions, such as load testing and stress testing.
+
+**Regression Testing**: Ensures that code previously tested and confirmed working still works after changes.
+
+You need to re-test to confirm nothing broke, even if it worked before.
+
+**Security Testing**: Identifies vulnerabilities and ensures the software is protected against potential threats.
+
+**Additional Notes**:
+
+All test types can be performed manually, but this requires a large number of people.
+
+Automated testing ensures higher quality by reducing the time needed to identify the root cause of errors.
+
+Testing ranges from cheap (unit tests) to expensive (E2E, performance, security).
+
+Being proactive prevents errors before they occur.
+
+Provides confidence in the code, making it safer to modify or update.
+
+<figure><img src=".gitbook/assets/image (206).png" alt=""><figcaption></figcaption></figure>
+
+DevOps focuses on streamlining and automating the software delivery lifecycle. A successful DevOps testing strategy integrates **continuous integration (CI)**, automated testing, and deployment to detect errors early and accelerate delivery.
+
+* Agile focuses on:
+  1. Individuals and interactions over processes and tools.
+  2. Working software over comprehensive documentation.
+  3. Customer collaboration over contract negotiation.
+  4. Responding to change over following a plan.
+* Agile uses **incremental test-first development** (test-driven development, TDD).
+* DevOps extends Agile by integrating **Operations** with Development and QA to enable **daily or hourly deployments** instead of 2–4 week sprints.
+* DevOps pipelines encourage **collaboration, shared responsibility, and incremental updates**.
+* Aim: **Automate as many manual processes as possible**.
+* **Testing is continuous** (early, often, and post-production).
+* DevOps testing includes:
+  * Continuous Development
+  * Continuous Integration (CI)
+  * Continuous Delivery (CD)
+  * Continuous Monitoring
+* Continuous Testing (shift-left) reduces defects, shortens test cycles, and increases software quality.
+*
+  * **Continuous Integration**:
+    * Frequent integration into a shared repository with automated testing to detect issues early.
+  *   **Continuous Delivery/Deployment**:
+
+      * Releasing builds rapidly while managing the risk of introducing bugs.
+      * Shift-right testing and continuous monitoring help gather user feedback post-release.
+
+
+
+      * In greenfield organizations: **automate the pipeline upfront** for competitive advantage.
+      * In existing organizations: **identify bottlenecks**, e.g., slow manual processes or unreliable big-bang deployments.
+
+
+
+      **Automate as many tests as possible**:
+
+      * Use CI/CD pipelines with automated unit, component, integration, and acceptance tests.
+      *
+        * **Benefits**:
+          * Faster feedback, better code quality, accelerated time-to-market.
+          * Enables continuous collaboration among development, QA, and operations.
+* QA must be **central to the DevOps pipeline** to balance speed and quality.
+* Facilitate **collaboration across teams**, live reporting, and global test case sharing.
+* &#x20;Faster delivery of **high-quality software**.
+* Improved **team collaboration and shared responsibility**.
+* Continuous **feedback loops** via automated testing and monitoring.
+* DevOps integrates testing into the CI/CD pipeline using automation, so tests run continuously and automatically. Test results and reports are generated by the pipeline and shared with the entire DevOps team to enable fast feedback, collaboration, and high-quality releases.
