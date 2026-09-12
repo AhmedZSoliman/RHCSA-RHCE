@@ -1,6 +1,5 @@
 # Table of contents
 
-* [Who am I](README.md)
 * [Red Hat System Administration I](red-hat-system-administration-i/README.md)
   * [Unix/Linux History & OS Differences](red-hat-system-administration-i/unix-linux-history-and-os-differences.md)
   * [Terminal, users, and basic commands.](red-hat-system-administration-i/terminal-users-and-basic-commands..md)
