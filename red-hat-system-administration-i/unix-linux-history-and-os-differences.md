@@ -7,33 +7,10 @@
   * **Security:** Linux is generally more secure than Windows, though no OS is 100% secure.
   * **Stability:** Linux is highly stable and reliable for servers.
   * **Cost-effective:** Linux is open-source and free to use. Anyone can modify its source code and redistribute it. You don’t need to pay to use Linux.
-  * **Powerful CLI:** Linux provides a powerful command-line interface, which helps automate tasks efficiently.
-  * **Huge community support:** Linux has a large and active community that provides help, tutorials, and development contributions.
-
-### Unix and Linux History
-
-* **Unix** was one of the first generations of operating systems, developed starting in **1969**.
-* The **first version of Unix** was released in **1971**.
-* Unix was a major milestone, introducing:
-  * A **hierarchical file system** with directories.
-  * Concepts like **pipes** and **shell scripts**.
-* Unix was written in the **C programming language**, also created at Bell Labs.
-* In the early 1970s, Bell Labs made Unix **freely available to universities and research institutions**, which helped it gain popularity as a teaching platform.
-* Universities and research labs contributed by **improving Unix, fixing bugs, and creating new programs**.
-* Some students developed programs and deployed them on Unix-based systems, leading to projects like **FreeBSD**.
-* Bell Labs later introduced a **license** to protect Unix commercially. Companies like IBM, HP, Apple, and Sun bought licenses to use it.
-* **Richard Stallman**, a Unix developer, aimed to create a **free OS** anyone could use without a license. He started the **GNU Project** (GNU’s Not Unix), providing free source code for applications, shells, libraries, compilers, etc. However, the GNU project initially **lacked a kernel**, the most essential part of an OS.
-* **Linus Torvalds**, a university student, developed a kernel and collaborated with Stallman’s GNU Project. This combination became **GNU/Linux**, commonly referred to as **Linux**.
-* Linus based his kernel on **Minix**, a free Unix-like OS. Most applications in GNU/Linux are **compatible with Unix**.
-* **Free Software Foundation (FSF):** Ensures Linux source code remains free forever and allows anyone to modify and redistribute it. Protected by the **GPL (General Public License).**
 
 ### Linux Distributions
 
 * Linux is **free and open-source**, which has led to a huge number of distributions (**distros**).
-*   Distributions are categorized into:
-
-    * **Desktop distros:** Designed for end-users (e.g., Ubuntu, Linux Mint).
-    * **Server distros:** Designed for servers (e.g., Red Hat Enterprise Linux, CentOS).
 
 
 
@@ -49,7 +26,6 @@
      * Takes input from the user and translates it for the kernel.
      * Receives output from the kernel and displays it to the user.
 3. **Applications (Apps):**
-   * Programs that run on Linux.
    * Can be **command-line applications** (CLI) or **graphical user interface applications** (GUI).
 
 <figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
@@ -58,22 +34,7 @@
 
 <figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
-### **Comparison Between Linux and Windows**
 
-* **Linux** is a free and open-source operating system.
-* **Windows** is a commercial operating system.
-* Linux has many distributions.
-* Windows has limited versions.
-* Linux is mostly used through the **Command-Line Interface (CLI)**.
-* Windows relies mainly on a **Graphical User Interface (GUI)**.
-* Tasks are generally faster to complete in Linux.
-* Tasks are generally slower to complete in Windows.
-* Users have full control over updates in Linux.
-* Windows updates may occur automatically without user control.
-* Linux is highly secure.
-* Windows is a major target for hackers due to its large user base and vulnerabilities.
-
-***
 
 ### **What is the Bash Shell?**
 
