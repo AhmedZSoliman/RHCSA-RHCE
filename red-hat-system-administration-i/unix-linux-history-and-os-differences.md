@@ -28,10 +28,6 @@
 3. **Applications (Apps):**
    * Can be **command-line applications** (CLI) or **graphical user interface applications** (GUI).
 
-<figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
-
-<figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
-
 ### **What is the Bash Shell?**
 
 * Bash is a **command interpreter** that acts as an interface between the user and the kernel.
