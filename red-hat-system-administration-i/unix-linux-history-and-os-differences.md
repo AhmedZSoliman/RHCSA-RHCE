@@ -32,8 +32,6 @@
 
 <figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
-
-
 ### **What is the Bash Shell?**
 
 * Bash is a **command interpreter** that acts as an interface between the user and the kernel.
