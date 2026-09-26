@@ -31,7 +31,6 @@
 ### **What is the Bash Shell?**
 
 * Bash is a **command interpreter** that acts as an interface between the user and the kernel.
-* A shell takes commands from the user, passes them to the kernel, and displays the output.
 * RHEL’s default shell is **Bash (Bourne-Again Shell)**, but there are other shells as well.
 
 **Shell Prompt Examples:**
