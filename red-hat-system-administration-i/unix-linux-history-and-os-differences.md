@@ -30,8 +30,6 @@
 
 <figure><img src="../.gitbook/assets/image (126).png" alt=""><figcaption></figcaption></figure>
 
-### Differences between Bridge vs NAT vs Host-only (vmware virtual network)
-
 <figure><img src="../.gitbook/assets/image (127).png" alt=""><figcaption></figcaption></figure>
 
 
