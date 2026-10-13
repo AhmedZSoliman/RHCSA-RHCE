@@ -1,11 +1,11 @@
 # Table of contents
 
 * [Software Engineering](README.md)
-  * [Programming Languages, Console apps, OOD](software-engineering/programming-languages-console-apps-ood.md)
-  * [DSA and Algo](software-engineering/dsa-and-algo.md)
-  * [Design Patterns](software-engineering/design-patterns.md)
-  * [mvc](software-engineering/mvc.md)
-  * [database](software-engineering/database.md)
-  * [api](software-engineering/api.md)
-  * [backend  fundamentals](software-engineering/backend-fundamentals.md)
+  * [1-Programming Languages, Console apps, OOD](software-engineering/1-programming-languages-console-apps-ood.md)
+  * [2-DSA and Algo](software-engineering/2-dsa-and-algo.md)
+  * [3-Design Patterns](software-engineering/3-design-patterns.md)
+  * [4-mvc](software-engineering/4-mvc.md)
+  * [5-database](software-engineering/5-database.md)
+  * [6-api](software-engineering/6-api.md)
+  * [7-backend  fundamentals](software-engineering/7-backend-fundamentals.md)
 * [Ajhoge Book](<README (1).md>)
